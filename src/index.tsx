@@ -24,7 +24,7 @@ const exchange = new Exchange({
 
 const BurnerWallet = () =>
   <ModernUI
-    title="Basic Wallet"
+    title="_o1ko_"
     core={core}
     plugins={[exchange]}
   />
